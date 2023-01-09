@@ -19,7 +19,7 @@
     <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div><br>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiTDS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 Estudante de Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR), apaixonado por tecnologia e desenvolvimento.
