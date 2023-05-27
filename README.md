@@ -31,6 +31,3 @@ Estudante de Ciência da Computação na Universidade Tecnológica Federal do Pa
   ![Snake animation](https://github.com/GuiTDS/GuiTDS/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
-### Contato:
-guitdsanches@gmail.com
