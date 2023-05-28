@@ -1,6 +1,6 @@
 
 ### Olá, eu sou o Guilherme Sanches!
--Estudante de Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR), apaixonado por tecnologia e desenvolvimento.
+- Estudante de Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR), apaixonado por tecnologia e desenvolvimento.
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui_sanches__/)
