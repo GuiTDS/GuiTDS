@@ -8,7 +8,7 @@
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20209225/guitds)
 <a href = "mailto:guitdsanches@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GuiTDS&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GuiTDS's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiTDS&layout=compact&theme=transparent&hide_border=true" /></a> |
+| <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=GuiTDS&show_icons=true&theme=tokyonight"></a> | <a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiTDS&layout=compact&theme=tokyonight"></a> |
 | ------------- | ------------- |
 
 ## Tecnologias que eu uso:
