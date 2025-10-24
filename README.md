@@ -8,9 +8,7 @@ I enjoy building intuitive and high-quality apps, exploring new technologies, an
 💡 Passionate about solving real-world problems through code, especially in the mobile space 🚀
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui_sanches__/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-teixeira-domingues-sanches-b929b51ba/)
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20209225/guitds)
 <a href = "mailto:guitdsanches@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 | <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=GuiTDS&show_icons=true&theme=tokyonight"></a> | <a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiTDS&layout=compact&theme=tokyonight&count-private=true"></a> |
