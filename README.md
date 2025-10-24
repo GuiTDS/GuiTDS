@@ -1,6 +1,11 @@
 
-### Olá, eu sou o Guilherme Sanches!
-- Estudante de Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR), apaixonado por tecnologia e desenvolvimento.
+### Hi, I'm Guilherme Sanches 👋
+
+I'm a Computer Science student at the Federal University of Technology – Paraná (UTFPR) and a mobile development enthusiast currently working as an intern in the field.
+
+I enjoy building intuitive and high-quality apps, exploring new technologies, and continuously learning about software development and design.
+
+💡 Passionate about solving real-world problems through code, especially in the mobile space 🚀
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui_sanches__/)
