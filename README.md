@@ -3,9 +3,7 @@
 
 I'm a Computer Science student at the Federal University of Technology – Paraná (UTFPR) and a mobile development enthusiast currently working as an intern in the field.
 
-I enjoy building intuitive and high-quality apps, exploring new technologies, and continuously learning about software development and design.
-
-💡 Passionate about solving real-world problems through code, especially in the mobile space 🚀
+I enjoy building intuitive and high-quality apps, exploring new technologies, and continuously learning about software development.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-teixeira-domingues-sanches-b929b51ba/)
